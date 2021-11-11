@@ -18,5 +18,7 @@ public class Lab3Q2 {
 		string = sc.nextLine();		//EARTH
 		
 		System.out.println(string+"|"+getImage(string));	//EARTH|HTRAE
+		
+		sc.close();
 	}
 }
